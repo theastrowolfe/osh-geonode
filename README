@@ -32,12 +32,12 @@ If instead, you are interested in doing development on the source code, here are
 Development Installations
 =========================
 
-.. warning:: Outdated instructuions. Please refer to http://docs.geonode.org/
+.. warning:: Outdated instructions. Please refer to http://docs.geonode.org/
 
 Docker Usage
 ------------
 
-.. warning:: Outdated instructuions. Please refer to http://docs.geonode.org/
+.. warning:: Outdated instructions. Please refer to http://docs.geonode.org/
 
 If you want to use Docker you can now::
 
@@ -86,7 +86,7 @@ For GeoServer: http://geonode/geoserver/web/
 Ubuntu
 ------
 
-.. warning:: Outdated instructuions. Please refer to http://docs.geonode.org/
+.. warning:: Outdated instructions. Please refer to http://docs.geonode.org/
 
 Ubuntu development build instructions using an isolated virtual environment (tested on Ubuntu 16.04 LTS)::
 
@@ -140,7 +140,7 @@ In case you want to be involved in static files development::
 openSUSE
 --------
 
-.. warning:: Outdated instructuions. Please refer to http://docs.geonode.org/
+.. warning:: Outdated instructions. Please refer to http://docs.geonode.org/
 
 openSUSE Development Build Instructions::
 
@@ -186,7 +186,7 @@ openSUSE Development Build Instructions::
 Windows
 -------
 
-.. warning:: Outdated instructuions. Please refer to http://docs.geonode.org/
+.. warning:: Outdated instructions. Please refer to http://docs.geonode.org/
 
 Windows Development Build Instructions::
 
@@ -253,7 +253,7 @@ Windows Development Build Instructions::
 Mac OSX
 -------
 
-.. warning:: Outdated instructuions. Please refer to http://docs.geonode.org/
+.. warning:: Outdated instructions. Please refer to http://docs.geonode.org/
 
 Mac OSX Development Build Instructions::
 
